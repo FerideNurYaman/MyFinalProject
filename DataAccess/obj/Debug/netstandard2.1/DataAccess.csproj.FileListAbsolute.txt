@@ -1,0 +1,12 @@
+/Users/macbookpro/Projects/MyProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.deps.json
+/Users/macbookpro/Projects/MyProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/macbookpro/Projects/MyProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/macbookpro/Projects/MyProject/DataAccess/bin/Debug/netstandard2.1/Entities.dll
+/Users/macbookpro/Projects/MyProject/DataAccess/bin/Debug/netstandard2.1/Entities.pdb
+/Users/macbookpro/Projects/MyProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csprojAssemblyReference.cache
+/Users/macbookpro/Projects/MyProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/MyProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfo.cs
+/Users/macbookpro/Projects/MyProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/MyProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CopyComplete
+/Users/macbookpro/Projects/MyProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.dll
+/Users/macbookpro/Projects/MyProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.pdb

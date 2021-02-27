@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{9A2869F9-3115-4AE7-8EAF-21AB612F54DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/Abstract/IProductService.cs">
+    <Files>
+      <File FileName="ConsoleUI/Program.cs" Line="18" Column="6" />
+      <File FileName="Entities/Concrete/Product.cs" />
+      <File FileName="Entities/Concrete/Category.cs" />
+      <File FileName="Entities/Abstract/IEntity.cs" />
+      <File FileName="DataAccess/Abstract/IProductDal.cs" />
+      <File FileName="DataAccess/Concrete/InMemory/InMemoryProductDal.cs" />
+      <File FileName="Business/Abstract/IProductService.cs" Line="13" Column="1" />
+      <File FileName="Business/Concrete/ProductManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyProject" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="Abstract" expanded="True">
+                <Node name="IProductService.cs" selected="True" />
+              </Node>
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="ConsoleUI" expanded="True" />
+            <Node name="DataAccess" expanded="True">
+              <Node name="Concrete" expanded="True">
+                <Node name="InMemory" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Entities" expanded="True">
+              <Node name="Concrete" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

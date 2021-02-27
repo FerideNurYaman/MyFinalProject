@@ -1,0 +1,9 @@
+/Users/macbookpro/Projects/MyProject/Entities/bin/Debug/netstandard2.1/Entities.deps.json
+/Users/macbookpro/Projects/MyProject/Entities/bin/Debug/netstandard2.1/Entities.dll
+/Users/macbookpro/Projects/MyProject/Entities/bin/Debug/netstandard2.1/Entities.pdb
+/Users/macbookpro/Projects/MyProject/Entities/obj/Debug/netstandard2.1/Entities.csprojAssemblyReference.cache
+/Users/macbookpro/Projects/MyProject/Entities/obj/Debug/netstandard2.1/Entities.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/MyProject/Entities/obj/Debug/netstandard2.1/Entities.AssemblyInfo.cs
+/Users/macbookpro/Projects/MyProject/Entities/obj/Debug/netstandard2.1/Entities.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/MyProject/Entities/obj/Debug/netstandard2.1/Entities.dll
+/Users/macbookpro/Projects/MyProject/Entities/obj/Debug/netstandard2.1/Entities.pdb

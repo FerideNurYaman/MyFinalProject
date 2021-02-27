@@ -1,0 +1,14 @@
+/Users/macbookpro/Projects/MyProject/Business/bin/Debug/netstandard2.1/Business.deps.json
+/Users/macbookpro/Projects/MyProject/Business/bin/Debug/netstandard2.1/Business.dll
+/Users/macbookpro/Projects/MyProject/Business/bin/Debug/netstandard2.1/Business.pdb
+/Users/macbookpro/Projects/MyProject/Business/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/macbookpro/Projects/MyProject/Business/bin/Debug/netstandard2.1/Entities.dll
+/Users/macbookpro/Projects/MyProject/Business/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/macbookpro/Projects/MyProject/Business/bin/Debug/netstandard2.1/Entities.pdb
+/Users/macbookpro/Projects/MyProject/Business/obj/Debug/netstandard2.1/Business.csprojAssemblyReference.cache
+/Users/macbookpro/Projects/MyProject/Business/obj/Debug/netstandard2.1/Business.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/MyProject/Business/obj/Debug/netstandard2.1/Business.AssemblyInfo.cs
+/Users/macbookpro/Projects/MyProject/Business/obj/Debug/netstandard2.1/Business.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/MyProject/Business/obj/Debug/netstandard2.1/Business.csproj.CopyComplete
+/Users/macbookpro/Projects/MyProject/Business/obj/Debug/netstandard2.1/Business.dll
+/Users/macbookpro/Projects/MyProject/Business/obj/Debug/netstandard2.1/Business.pdb
